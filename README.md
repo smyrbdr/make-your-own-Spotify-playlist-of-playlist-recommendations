@@ -1,6 +1,6 @@
 # make-your-own-Spotify-playlist-of-playlist-recommendations
 
-This code snippet helps you create your own Spotify public playlist containg recommended tracks for each track in a source public playlist using Spotipy library.
+This code snippet helps you create your own Spotify public playlist containing recommended tracks for each track in a source public playlist using Spotipy library.
 
 Here is the original library;
 
